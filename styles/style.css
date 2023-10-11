@@ -46,7 +46,7 @@ main p {
   justify-content: flex-end;
 }
 
-.space div {
+main > div {
   background-color: #6b016eca;
   height: 1px;
 }
@@ -96,4 +96,11 @@ footer {
 
 .box3 li {
   font-size: large;
+}
+
+button {
+  background-color: #5169a7;
+  padding: 15px 32px;
+  color: white;
+  border-radius: 15px;
 }
