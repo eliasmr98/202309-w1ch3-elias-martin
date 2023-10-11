@@ -77,3 +77,23 @@ footer {
 .main-block div:hover {
   color: rgb(235, 136, 23);
 }
+
+.form-box {
+  background-color: #d1bead;
+  padding: 50px;
+}
+.form-box {
+  display: flex;
+}
+
+.box3 {
+  display: flex;
+}
+
+.box3 ul {
+  list-style: none;
+}
+
+.box3 li {
+  font-size: large;
+}
