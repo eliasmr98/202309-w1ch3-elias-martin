@@ -13,7 +13,7 @@
 
 En el challenge se ponen a prueba los conocimientos previos de CSS, que serán revisados con detalle en la siguiente sesión. Si conoces flex, puedes utilizarlo, pero también puedes maquetar con otros displays.
 
-### Capturas:
+### Capturas
 
 Lista:
 ![List](list.jpg 'List')
